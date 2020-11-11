@@ -4,11 +4,9 @@
 extern int foo();
 
 int main(int argc, char **argv) {
-
-exit(foo() + bug::get_thing("baz"));
+  exit(foo() + bug::get_thing("baz"));
 }
 
-#ifndef ALLOW_INIT
 struct A {
   int i;
 
@@ -18,5 +16,3 @@ struct A {
 };
 
 A a0(0);
-#endif
-
