@@ -28,7 +28,7 @@ It does not need to be pre-declared. It is just a string (like `tags`). If it
 appears in the target attribute, package declaration, or command-line then it
 *exists*.
 
-See [Rule Feature Interactions](#rule-feature-interactions) for what happens
+See [Rule Feature Interactions](#rule-feature-interaction) for what happens
 when those names intersect.
 
 NOTE: For Rule Features, the set of enabled/disabled features is always computed
