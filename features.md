@@ -4,9 +4,8 @@ Author: trybka@
 
 SUMMARY: This page is intended for Rule and/or Toolchain maintainers. If you're
 looking for information about features end users may wish to set, please go here
-instead: <TODO EXTERNAL LINK>
+instead: [TODO: Add link](google.com)
 
-[TOC]
 
 ## What is a `feature`?
 
